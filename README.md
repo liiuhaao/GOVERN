@@ -8,7 +8,7 @@ This repository contains the source code and supplementary materials related to 
 
 ```bash
 # Clone the repository
-git clone https://github.com/monnochrome012/ICDE2024.git
+git clone https://github.com/monnochrome012/ICDE24.git
 
 # Go to the project directory
 cd ICDE2024
