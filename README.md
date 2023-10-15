@@ -1,6 +1,6 @@
 # GOVERN
 
-This repository contains the source code and supplementary materials related to our submission to ICDE 2024, titled "Graph Contrastive Learning for Truth Inference." This work is currently under review.
+This repository contains the source code and supplementary materials for our paper 'Graph Contrastive Learning for Truth Inference,' which has been accepted for publication at ICDE 2024.
 
 ![GOVERN](GOVERN.png)
 
@@ -8,10 +8,10 @@ This repository contains the source code and supplementary materials related to 
 
 ```bash
 # Clone the repository
-git clone https://github.com/monnochrome012/ICDE24.git
+git clone https://github.com/monnochrome012/GOVERN.git
 
 # Go to the project directory
-cd ICDE2024
+cd GOVERN
 
 # Create and activate the conda environment
 conda env create -f environment.yml
