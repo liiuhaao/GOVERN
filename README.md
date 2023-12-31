@@ -8,7 +8,7 @@ This repository contains the source code and supplementary materials for our pap
 
 ```bash
 # Clone the repository
-git clone https://github.com/monnochrome012/GOVERN.git
+git clone https://github.com/liiuhaao/GOVERN.git
 
 # Go to the project directory
 cd GOVERN
